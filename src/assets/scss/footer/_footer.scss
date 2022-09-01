@@ -158,6 +158,10 @@
         }
         .widget-footer-nav {
             ul {
+                margin-bottom: 0;
+                @media #{$md-device} {
+                    margin-bottom: 30px;
+                }
                 li {
                     display: inline-block;
                     padding: 0 20px;

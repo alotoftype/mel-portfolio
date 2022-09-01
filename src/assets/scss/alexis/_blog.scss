@@ -40,7 +40,7 @@
             width: 0;
             @include transition(0.3s);
         }
-        &.active,
+        &.is-checked,
         &:hover {
             &:after {
                 left: 0;
