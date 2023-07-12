@@ -1,6 +1,8 @@
 import { Link } from "react-router-dom";
 import FooterLogo from "../../components/footer-logo";
 
+const date = new Date();
+
 const Footer = () => {
     return (
         <footer className="footer-area reveal-footer border-top-style">
@@ -47,22 +49,10 @@ const Footer = () => {
                                 </div>
                             </div>
                             <div className="widget-item text-center">
-                                <div className="about-widget">
-                                    <FooterLogo
-                                        image={`${process.env.PUBLIC_URL}/img/logo.png`}
-                                    />
-                                </div>
                                 <div className="widget-copyright">
                                     <p>
-                                        © 2021 <span>Alexis</span>. Made with{" "}
-                                        <i className="icofont-heart-alt"></i> by{" "}
-                                        <a
-                                            target="_blank"
-                                            href="https://www.hasthemes.com"
-                                            rel="noreferrer"
-                                        >
-                                            HasThemes
-                                        </a>
+                                        © {date.getFullYear()}{" "}
+                                        <span>MelShotya</span>. Made with{" "}
                                     </p>
                                 </div>
                             </div>
