@@ -1,8 +1,8 @@
 [
     {
         "id": "about me",
-        "title": "Say Hello From Alexis !",
-        "excerpt": "We are a fairly small, flexible design studio that designs for print and web. <br>Alexis works flexibly with clients to fulfil their design needs. Whether you need to create a brand from scratch, including marketing and a beautiful and functional website or whether you are looking for a great experience."
+        "title": "Say Hello From Melshotya !",
+        "excerpt": "We are a fairly small, flexible design studio that designs for print and web. <br>Melshotya works flexibly with clients to fulfil their design needs. Whether you need to create a brand from scratch, including marketing and a beautiful and functional website or whether you are looking for a great experience."
     },
     {
         "id": "about service",
@@ -72,13 +72,13 @@
                 "id": 8,
                 "classOption": "team-member become-member",
                 "image": "./img/team/01.jpg",
-                "name": "Become <br>member in <br>Alexis"
+                "name": "Become <br>member"
             }
         ]
     },
     {
         "id": "blockquote",
-        "excerpt": "I’ve worked with many agencies throughout the world. <br />I’ve found Alexis to be one of those special agencies you wish all the others were like.",
+        "excerpt": "I’ve worked with many agencies throughout the world. <br />I’ve found Al to be one of those special agencies you wish all the others were like.",
         "name": "Ellen Krelamine",
         "designation": "CEO at Drfurion"
     },
@@ -126,7 +126,7 @@
     {
         "id": "Brand",
         "title": "Our Clients",
-        "excerpt": "Alexis has been honored to partner up with these clients.",
+        "excerpt": "Melshotya has been honored to partner up with these clients.",
         "brand": [
             {
                 "id": 1,
