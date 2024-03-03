@@ -2,10 +2,10 @@
     {
         "id": 1,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-1.jpg",
-        "title": "Daniel Raclift",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["featured", "new added"],
+        "homeImage": "img/portfolio/engagement/engagement01.png",
+        "title": "Engagement Photoshoot",
+        "excerpt": "such and such photoshoot",
+        "categories": ["engagement"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
         "team": "Nindia H. - Editor <br />Kate E. - Photographer",
@@ -19,20 +19,21 @@
             "link": "/"
         },
         "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
+            "imageOne": "./img/portfolio/engagement/engagement01.png",
             "imageTwo": "./img/portfolio/s2.jpg",
             "imageThree": "./img/portfolio/s3.jpg",
             "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
+            "imageFive": "./img/portfolio/s4.jpg",
+            "imageSix": "./img/portfolio/s5.jpg"
         }
     },
     {
         "id": 2,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-2.jpg",
+        "homeImage": "img/portfolio/engagement/engagement02.png",
         "title": "Designer Linocut",
         "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["popular", "nature"],
+        "categories": ["engagement"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
         "team": "Nindia H. - Editor <br />Kate E. - Photographer",
@@ -46,7 +47,7 @@
             "link": "/"
         },
         "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
+            "imageOne": "./img/portfolio/engagement/engagement02.png",
             "imageTwo": "./img/portfolio/s2.jpg",
             "imageThree": "./img/portfolio/s3.jpg",
             "imageFour": "./img/portfolio/sv1.jpg",
@@ -56,11 +57,11 @@
     {
         "id": 3,
         "type": "video",
-        "homeImage": "img/portfolio/portfolio-3.jpg",
+        "homeImage": "img/portfolio/marketing/marketing01.png",
         "videoUrl": "https://www.youtube.com/embed/KzhSW1Ztq1w",
         "title": "Designer Collagraph",
         "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["background", "old"],
+        "categories": ["marketing"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
         "team": "Nindia H. - Editor <br />Kate E. - Photographer",
@@ -74,7 +75,7 @@
             "link": "/"
         },
         "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
+            "imageOne": "./img/portfolio/marketing/marketing01.png",
             "imageTwo": "./img/portfolio/s2.jpg",
             "imageThree": "./img/portfolio/s3.jpg",
             "imageFour": "./img/portfolio/sv1.jpg",
@@ -84,10 +85,10 @@
     {
         "id": 4,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-4.jpg",
+        "homeImage": "img/portfolio/portraits/portraits01.png",
         "title": "Designer Engraving",
         "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["sport", "design"],
+        "categories": ["portrait", "design"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
         "team": "Nindia H. - Editor <br />Kate E. - Photographer",
@@ -111,10 +112,10 @@
     {
         "id": 5,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-5.jpg",
+        "homeImage": "img/portfolio/events/event08.png",
         "title": "Working Remotely",
         "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["human", "cities"],
+        "categories": ["Events"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
         "team": "Nindia H. - Editor <br />Kate E. - Photographer",
@@ -138,10 +139,10 @@
     {
         "id": 6,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-7.jpg",
+        "homeImage": "img/portfolio/portraits/portraits06.png",
         "title": "White Paper",
         "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["colors", "products"],
+        "categories": ["portrait"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
         "team": "Nindia H. - Editor <br />Kate E. - Photographer",
@@ -165,10 +166,10 @@
     {
         "id": 7,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-8.jpg",
+        "homeImage": "img/portfolio/celebrity/celebrity15.png",
         "title": "Connect Online",
         "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["featured", "new added"],
+        "categories": ["celebrity"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
         "team": "Nindia H. - Editor <br />Kate E. - Photographer",
@@ -192,10 +193,10 @@
     {
         "id": 8,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-6.jpg",
+        "homeImage": "img/portfolio/fashion/fashion01.png",
         "title": "Dog With Fun",
         "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["popular", "nature"],
+        "categories": ["fashion"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
         "team": "Nindia H. - Editor <br />Kate E. - Photographer",
@@ -219,7 +220,7 @@
     {
         "id": 9,
         "type": "image",
-        "homeImage": "img/portfolio/portfolio-9.jpg",
+        "homeImage": "img/portfolio/fashion/fashion07.png",
         "title": "Salfe Made",
         "excerpt": "Mango Fashion Lookbook Campaign",
         "categories": ["background", "old"],
